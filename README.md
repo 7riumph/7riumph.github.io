@@ -1,28 +1,19 @@
 <p align="center">
   <a href="">
-  <img src="./svgfolder/capstonerealproj.svg" alt="reveal.js" width="450">
+  <img src="./svgfolder/capstoneprojproj.svg" alt="wow" width="450">
   </a>
   <br><br>
-  <a href="https://github.com/hakimel/reveal.js/actions"><img src="https://github.com/hakimel/reveal.js/workflows/tests/badge.svg"></a>
-  <a href="https://slides.com/"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
 </p>
 
-reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://revealjs.com/).
+## Description
+An interactive [Reveal.js](https://revealjs.com/) slideshow presentation. It details the American bison's history and significance.  
 
-The framework comes with a broad range of features including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX support](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and much more.
+## Purpose 
+Through this capstone project, I learned about the American bison’s historical and modern significance. Especially as that significance relates with how plains First Nations (Akainai, Piikani, Amskapi Pikuni, Apache, and more) worldviews, cultures, values, and Medicine Wheel teachings, help to paint a picture of why land and resource sustainability is intrinsic to the Aboriginal voice.
 
-<h1>
-  <a href="https://revealjs.com/installation" style="font-size: 3em;">Get Started</a>
-</h1>
+## Project Sections
+→ Section One: History and Population Data
+→ Section Two: Bison Uses/Tools and 3D Photo Scans or Models
+→ Section Three: The Medicine Wheel
+→ Section Four: Politics and the Modern Era
 
-## Documentation
-The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
-
-## Online Editor
-Want to create your presentation using a visual editor? Try the official reveal.js presentation platform for free at [Slides.com](https://slides.com). It's made by the same people behind reveal.js.
-
-## License
-
-MIT licensed
-
-Copyright (C) 2011-2021 Hakim El Hattab, https://hakim.se
